@@ -8,7 +8,7 @@
 #### A mathematician who loves data, coding and climbing  🚀
 This is a collection of my coding journey 'till now!
 
-#### :hammer_and_wrench: Languages and Tools :
+#### Languages and Tools :hammer_and_wrench:
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sararuizruiz&layout=compact) --->
 
