@@ -5,7 +5,7 @@
 **Email**: sararr090@gmail.com <br />
 **LinkedIn**: www.linkedin.com/in/sara-ruiz-ruiz  <br />
 
-#### A mathematician who loves data, coding and running  🚀
+#### A mathematician who loves coding, data and running  🚀
 This is a collection of my coding journey 'till now!
 
 #### Languages and Tools :hammer_and_wrench:
